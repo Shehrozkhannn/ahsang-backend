@@ -33,7 +33,6 @@ $ npm install
 
 ## Compile and run the project
 
-```markdown
 # 🛠 Backend – NestJS / Express API
 
 This is the backend API for the full-stack application. It serves as the authentication and data API layer.
@@ -77,8 +76,8 @@ Required tables:
 
 users
 Posts
-
-## Middleware & Libraries
+```
+## 🚀 Middleware & Libraries
 class-validator: Request DTO validation
 
 jsonwebtoken: JWT encoding/decoding
@@ -98,5 +97,5 @@ Auth middleware with token expiration check
 
 Modularized folder structure
 
-## AI Tools
+## 🌐 AI Tools
 Use CHATGPT AND CURSOR 
